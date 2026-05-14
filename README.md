@@ -11,5 +11,6 @@ As a junior tech enthusiast I am continuously improving my skills in web develop
 Hobbies: Singing (I am a chorister) and helping people with the little I have make a whole lot to me.
 
 📫 How to reach me:
-Email: loiszy5@gmail.com
-LinkedIn: https://www.linkedin.com/in/olubunmi-elegbeleye/
+
+- Email: loiszy5@gmail.com
+- LinkedIn: https://www.linkedin.com/in/olubunmi-elegbeleye/
