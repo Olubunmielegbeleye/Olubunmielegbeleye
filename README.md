@@ -8,9 +8,8 @@ Out of the tech world I am a Virtual Assistance with a strong foundation in cust
 
 As a junior tech enthusiast I am continuously improving my skills in web development and data science through praticals. I am open to real networking opportunities and collaborations that will help me grow in the tech space
 
-Hobbies: Singing (I am a chorister) and helping people with the little I have 
+Hobbies: Singing (I am a chorister) and helping people with the little I have make a whole lot to me.
 
 📫 How to reach me:
-
 Email: loiszy5@gmail.com
-LinkedIn: linkedin.com/in/olubunmi-elegbeleye
+LinkedIn: https://www.linkedin.com/in/olubunmi-elegbeleye/
