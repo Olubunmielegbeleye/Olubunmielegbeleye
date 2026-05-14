@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, Welcome to my hub👋
 
-<!--
-**Olubunmielegbeleye/Olubunmielegbeleye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Olubunmi Elegbeleye, a passionate and growth-driven tech enthusiast based in Lagos, Nigeria. 
 
-Here are some ideas to get you started:
+I am learning and transitioning into the world of tech through Tech4dev (Women Techster Fellowship) as a Frontend Developer. Also currently learning Data Science with She Code Africa Academy using Python to work on data science projects with an interest in data visualization and story-telling 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Out of the tech world I am a Virtual Assistance with a strong foundation in customer service, managing and scheduling and a good problem solver with vast attention to detail
+
+As a junior tech enthusiast I am continuously improving my skills in web development and data science through praticals. I am open to real networking opportunities and collaborations that will help me grow in the tech space
+
+Hobbies: Singing (I am a chorister) and helping people with the little I have 
+
+📫 How to reach me:
+
+Email: loiszy5@gmail.com
+LinkedIn: linkedin.com/in/olubunmi-elegbeleye
