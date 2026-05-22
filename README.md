@@ -2,7 +2,7 @@
 
 My name is Olubunmi Elegbeleye, a passionate and growth-driven tech enthusiast based in Lagos, Nigeria. 
 
-Transitioning into the world of tech through Tech4dev (Women Techster Fellowship) as a Frontend Developer, and also a Data Science with She Code Africa Academy using Python to work on data science projects with an interest in data visualization and story-telling 
+Transitioning into the world of tech through Tech4dev (Women Techster Fellowship) as a Frontend Developer, and also Data Science with She Code Africa Academy using Python to work on data science projects with an interest in data visualization and story-telling 
 
 Out of the tech world I am a Virtual Assistant with a strong foundation in customer service, managing and scheduling and a good problem solver with vast attention to detail
 
